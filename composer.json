@@ -8,5 +8,14 @@
       "name": "Robert Landers",
       "email": "landers.robert@gmail.com"
     }
-  ]
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:WickedMonkeySoftware/appti2ude.git"
+    }
+  ],
+  "require": {
+    "withinboredom/appti2ude": "dev-master"
+  }
 }

@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "bbe1f61bb230e30519ac6260355bd572",
+    "packages": [
+        {
+            "name": "withinboredom/appti2ude",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WickedMonkeySoftware/appti2ude.git",
+                "reference": "98a5f58e6a78d94447e7218aeb3e991eb935dcb8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/WickedMonkeySoftware/appti2ude/zipball/98a5f58e6a78d94447e7218aeb3e991eb935dcb8",
+                "reference": "98a5f58e6a78d94447e7218aeb3e991eb935dcb8",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~5.0@dev"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "appti2ude\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rob Landers",
+                    "email": "landers.robert@gmail.com"
+                }
+            ],
+            "description": "a simple cqrs library",
+            "support": {
+                "source": "https://github.com/WickedMonkeySoftware/appti2ude/tree/master",
+                "issues": "https://github.com/WickedMonkeySoftware/appti2ude/issues"
+            },
+            "time": "2015-07-26 04:40:45"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "withinboredom/appti2ude": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
