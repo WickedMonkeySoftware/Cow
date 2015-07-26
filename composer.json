@@ -1,0 +1,12 @@
+{
+  "name": "withinboredom/cow",
+  "description": "An event oriented language",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robert Landers",
+      "email": "landers.robert@gmail.com"
+    }
+  ]
+}
